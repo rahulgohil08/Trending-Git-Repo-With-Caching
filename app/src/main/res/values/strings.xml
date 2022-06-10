@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uffizio App Sample</string>
+    <string name="dashboard">Trending</string>
+    <string name="view">Display</string>
+    <string name="notifications">Notification</string>
+    <string name="menu">More Menu</string>
+    <string name="fab">FAB</string>
+</resources>
